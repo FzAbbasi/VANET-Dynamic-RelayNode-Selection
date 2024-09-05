@@ -1,4 +1,4 @@
-# Best Relay Node Selection for Data Propagation in Vehicular Networks
+# Best Relay Node Selection 
 
 ## Overview
 
